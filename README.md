@@ -10,3 +10,5 @@ git clone https://github.com/JJ-rue/lightsctrl
 cd lightsctrl
 pip install kasa
 ```
+
+This is an example of how to use a kasa library to turn on and off a light.
