@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/637490933.svg)](https://zenodo.org/badge/latestdoi/637490933)
+
 # lightsctrl
 Turning on and off a light using a kasa power strip.
 
@@ -15,5 +17,5 @@ This is an example of how to use a kasa library to turn on and off a light.
 
 
 
-[![DOI](https://zenodo.org/badge/637490933.svg)](https://zenodo.org/badge/latestdoi/637490933)
+
 
